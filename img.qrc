@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>imgs/box/box.png</file>
+        <file>imgs/box/completedBox.png</file>
+        <file>imgs/player/player.png</file>
+        <file>imgs/player/playerOnDestination.png</file>
+        <file>imgs/place/destination.png</file>
+        <file>imgs/place/field.png</file>
+        <file>imgs/wall/wall.png</file>
+        <file>imgs/others/close.png</file>
+        <file>imgs/others/fullsize.png</file>
+        <file>imgs/others/empty.png</file>
+        <file>imgs/others/logo.png</file>
+    </qresource>
+</RCC>
